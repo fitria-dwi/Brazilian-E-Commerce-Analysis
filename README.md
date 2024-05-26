@@ -38,7 +38,7 @@ This analysis will provide insights to:
 
 ### Repository Contents
 * [**Dashboard**](https://public.tableau.com/shared/R7YT24J8F?:display_count=n&:origin=viz_share_link): Tableau dashboards visualizing the key insights and metrics.
-* [**Dashboard Story**](https://public.tableau.com/views/BrazilianE-CommerceAnalysis-Story/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link): Tableau dashboards visualizing the key insights and metrics.
+* [**Dashboard Story**](https://public.tableau.com/views/BrazilianE-CommerceAnalysis-Story/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link): a sequence of different charts in Tableau that combine to provide a cohesive plot.
 
 ![Dashboard Preview](https://github.com/fitria-dwi/Brazilian-E-Commerce-Analysis/assets/74573342/738e4995-2288-428e-a664-12cb177c5b10)
 ![Dashboard Story Preview](https://github.com/fitria-dwi/Brazilian-E-Commerce-Analysis/assets/74573342/6ae35227-25fc-4e03-ba5c-41ec6afad3ca)
